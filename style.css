@@ -1,0 +1,12 @@
+button {
+    margin: 30px;
+}
+
+input {
+    margin: 30px;
+}
+
+fieldset {
+    width: 400px;
+    background-color: aqua;
+}
